@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Kenzo Fujisaki
+# SPDX-License-Identifier: BSD-3-Clause
 
 import sys
 
 
 def tonum(s):
-     try:
+    try:
         return int(s)
     except:
         return float(s)
