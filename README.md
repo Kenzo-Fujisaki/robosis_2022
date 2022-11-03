@@ -6,3 +6,13 @@
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   * © 2022 Kenzo Fujisaki
 
+# plusコマンド
+
+
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
