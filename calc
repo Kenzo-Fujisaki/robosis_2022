@@ -1,0 +1,28 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Kenzo Fujisaki
+# SPDX-License-Identifier: BSD-3-Clause
+
+x = float(input())
+
+Method = input()
+if Method == '+':
+    y = float(input())
+    x += y
+    print(x)
+elif Method == '-':
+    y = float(input())
+    x -= y
+    print(x)
+elif Method == '*':
+    y = float(input())
+    x *= y
+    print(x)
+elif Method == '/':
+    y = float(input())
+    if y == 0:
+        print("error")
+    else:
+        x /= y
+        print(x)
+else:
+    print('error')
