@@ -17,3 +17,16 @@
 
 ## テスト環境
 * Ubuntu 20.04
+
+# calcコマンド
+![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
+
+
+標準入力で読み込んだ２つの整数を四則演算するプログラム
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu 20.04
