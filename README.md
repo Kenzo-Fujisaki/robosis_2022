@@ -10,7 +10,6 @@
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
-例
 ```
 seq 5 | ./plus
 ```
@@ -32,7 +31,6 @@ seq 5 | ./plus
 
 
 標準入力で読み込んだ数を四則演算していくプログラム
-例
 ```
 echo -e '1\n+\n3\n=' | ./calc
 ```
