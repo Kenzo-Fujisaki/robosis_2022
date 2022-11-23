@@ -3,23 +3,6 @@
 
 ---
 
-## 動作に必要なソフトウェア
-* Python3.7~3.10
-
----
-
-## 動作確認済み環境
-* Ubuntu 20.04
-
----
-
-## テスト結果
-|  plus  |  calc  |
-| ---- | ---- |
-| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg) | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg) |
-
----
-
 ## インストール手順
 
   * sshの場合
@@ -58,6 +41,22 @@ $ echo -e '1\n+\n3\n=' | ./calc
 ```
 4.0
 ```
+---
+
+## 動作に必要なソフトウェア
+* Python3.7~3.10
+
+---
+
+## 動作確認済み環境
+* Ubuntu 20.04
+
+---
+
+## テスト結果
+|  plus  |  calc  |
+| ---- | ---- |
+| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg) | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg) |
 
 ---
 
