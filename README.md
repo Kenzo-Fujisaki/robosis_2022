@@ -13,12 +13,12 @@
 ## 本リポジトリのテスト環境
 * Ubuntu 20.04
 
-##　テスト結果
+## テスト結果
 |  plus  |  calc  |
 | ---- | ---- |
 | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg) | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg) |
 
-# インストール手順
+## インストール手順
 
   * sshの場合
   ```
