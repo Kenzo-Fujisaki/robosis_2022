@@ -6,6 +6,19 @@
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   * © 2022 Kenzo Fujisaki
 
+## 本リポジトリに必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## 本リポジトリのテスト環境
+* Ubuntu 20.04
+
+##　テスト結果
+|  plus  |  calc  |
+| ---- | ---- |
+![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
+| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)   |   |
+
 # インストール手順
 
   * sshの場合
@@ -30,13 +43,6 @@ seq 5 | ./plus
 15
 ```
 
-## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7~3.10
-
-## テスト環境
-* Ubuntu 20.04
-
 # calcコマンド
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
 
@@ -50,9 +56,3 @@ echo -e '1\n+\n3\n=' | ./calc
 4.0
 ```
 
-## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7~3.10
-
-## テスト環境
-* Ubuntu 20.04
