@@ -10,6 +10,7 @@
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
+例
 ```
 seq 5 | ./plus
 ```
@@ -30,7 +31,15 @@ seq 5 | ./plus
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
 
 
-標準入力で読み込んだ２つの整数を四則演算するプログラム
+標準入力で読み込んだ数を四則演算していくプログラム
+例
+```
+echo -e '1\n+\n3\n=' | ./calc
+```
+実行結果
+```
+4.0
+```
 
 ## 必要なソフトウェア
 * Python
