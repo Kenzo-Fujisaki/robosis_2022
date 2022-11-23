@@ -4,25 +4,25 @@
 
 x = float(input())
 
-Method = input()
-if Method == '+':
-    y = float(input())
-    x += y
-    print(x)
-elif Method == '-':
-    y = float(input())
-    x -= y
-    print(x)
-elif Method == '*':
-    y = float(input())
-    x *= y
-    print(x)
-elif Method == '/':
-    y = float(input())
-    if y == 0:
-        print("error")
-    else:
-        x /= y
+while True:
+    Method = input()
+    if Method == '+':
+        y = float(input())
+        x += y
+    elif Method == '-':
+        y = float(input())
+        x -= y
+    elif Method == '*':
+        y = float(input())
+        x *= y
+    elif Method == '/':
+        y = float(input())
+        if y == 0:
+            print("error")
+        else:
+            x /= y
+    elif Method == '=':
         print(x)
-else:
-    print('error')
+        break
+    else:
+        print('error')
