@@ -16,8 +16,7 @@
 ##　テスト結果
 |  plus  |  calc  |
 | ---- | ---- |
-![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
-| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)   |   |
+| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg) | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg) |
 
 # インストール手順
 
@@ -31,7 +30,6 @@
   ```
 
 # plusコマンド
-![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
 ```
@@ -44,8 +42,6 @@ seq 5 | ./plus
 ```
 
 # calcコマンド
-![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg)
-
 
 標準入力で読み込んだ数を四則演算していくプログラム
 ```
