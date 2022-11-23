@@ -8,7 +8,7 @@
 
 # インストール手順
 
-  *sshの場合
+  * sshの場合
   ```
   git clone git@github.com:Kenzo-Fujisaki/robosys_2022.git
   ```
