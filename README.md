@@ -24,11 +24,11 @@
 
   * sshの場合
   ```
-  git clone git@github.com:Kenzo-Fujisaki/robosys_2022.git
+  $ git clone git@github.com:Kenzo-Fujisaki/robosys_2022.git
   ```
   * httpsの場合
   ```
-  git clone https://github.com/Kenzo-Fujisaki/robosys_2022.git
+  $ git clone https://github.com/Kenzo-Fujisaki/robosys_2022.git
   ```
 
 ---
