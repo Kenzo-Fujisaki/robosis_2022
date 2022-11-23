@@ -10,6 +10,14 @@
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
+```
+seq 5 | ./plus
+```
+
+実行結果
+```
+15
+```
 
 ## 必要なソフトウェア
 * Python
