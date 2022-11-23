@@ -6,6 +6,13 @@
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   * © 2022 Kenzo Fujisaki
 
+# インストール手順
+
+  *sshの場合
+  ```
+  git clone git@github.com:Kenzo-Fujisaki/robosys_2022.git
+  ```
+
 # plusコマンド
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
