@@ -12,6 +12,10 @@
   ```
   git clone git@github.com:Kenzo-Fujisaki/robosys_2022.git
   ```
+  * httpsの場合
+  ```
+  git clone https://github.com/Kenzo-Fujisaki/robosys_2022.git
+  ```
 
 # plusコマンド
 ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
