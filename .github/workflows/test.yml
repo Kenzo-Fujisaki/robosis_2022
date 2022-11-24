@@ -1,4 +1,4 @@
-name: test
+name: test_plus_calc
 on: push
 jobs: 
   test:
@@ -10,3 +10,5 @@ jobs:
     - uses: actions/checkout@v3
     - name: All test
       run: bash -xv ./test.bash
+      run: bash -xv ./test_calc.bash
+
