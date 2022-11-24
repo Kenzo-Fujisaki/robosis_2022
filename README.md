@@ -1,5 +1,6 @@
 # robosys_2022
 ロボットシステム学の練習リポジトリ
+![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 ---
 
@@ -46,13 +47,6 @@ $ echo -e '1\n+\n3\n=' | ./calc
 ## 動作確認済み環境
 * Python3.7~3.10
 * Ubuntu 20.04
-
----
-
-## テスト結果
-|  plus  |  calc  |
-| ---- | ---- |
-| ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test.yml/badge.svg) | ![test](https://github.com/Kenzo-Fujisaki/robosys_2022/actions/workflows/test_calc.yml/badge.svg) |
 
 ---
 
