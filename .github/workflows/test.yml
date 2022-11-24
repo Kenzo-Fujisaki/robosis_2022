@@ -8,6 +8,7 @@ jobs:
         python-version: ["3.7", "3.8", "3.9", "3.10"]
     steps:
     - uses: actions/checkout@v3
-    - name: All test
-      run1: bash -xv ./test.bash
-      run2: bash -xv ./test_calc.bash
+    - name: All test_plus
+      run: bash -xv ./test.bash
+    - neme: All test_calc
+      run: bash -xv ./test_calc.bash
