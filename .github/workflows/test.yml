@@ -10,5 +10,5 @@ jobs:
     - uses: actions/checkout@v3
     - name: All test_plus
       run: bash -xv ./test.bash
-    - neme: All test_calc
+    - name: All test_calc
       run: bash -xv ./test_calc.bash
