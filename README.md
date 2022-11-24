@@ -47,8 +47,8 @@ $ echo -e '1\n+\n3\n=' | ./calc
 ---
 
 ## 動作確認済み環境
-* Python3.7~3.10
-* Ubuntu 20.04
+* Python:3.7~3.10
+* Ubuntu 20.04 LTS
 
 ---
 
